@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Item {
+	// 阿萨德回复家活动方式
       private Integer id;
       private String name;
       private Integer number;
